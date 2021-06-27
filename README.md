@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100Gyeon&show_icons=true&theme=vue)
+<br>
+|         Type        	|          Date          	|              Contents              	|                    Organization                    	|
+|:-------------------:	|:----------------------:	|:----------------------------------:	|:--------------------------------------------------:	|
+|    🎓<br>Education   	| 2018. 03 <br>~  	      | School of Computer Science and Engineering 	|                 Soongsil University                	|
+|     🏢<br>Intern    	| 2021. 01 <br>~ 2021. 05 	|   Front-end developer                    	|                   The SMC Group                  	|
