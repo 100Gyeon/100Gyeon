@@ -8,3 +8,4 @@
 |    🎓<br>Education    | 2018. 03 <br>~  	      | School of Computer Science and Engineering |           	 Soongsil University            	|
 |     🏢<br>Intern    	| 2021. 01 <br>~ 2021. 05 | https://www.banggooso.com/ <br> http://mrmt.kr/ <br> Front-end developer |  The SMC Group  |
 |    	👩‍🏫<br>Mentor    	 | 2021. 08 <br>~ 2021. 09 |  2021 Samsung Junior Software Cup  |  Samsung  |
+|     👩‍💻<br>Member    	 | 2021. 09 <br>~ 2022. 01 |  29th Web Part YB  |  SOPT  |
