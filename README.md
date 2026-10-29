@@ -1,6 +1,6 @@
 ### 🚀 Experience
 
-- [여기어때컴퍼니](https://gccompany.co.kr) 프론트엔드 개발자 (2026.10 - NOW)
+- [여기어때컴퍼니](https://gccompany.co.kr) 프론트엔드 개발자 (2026. 10 - NOW)
 - [리멤버앤컴퍼니](https://corp.remember.co.kr) 프론트엔드 개발자 (2024. 11 - 2026. 10)
 - [카카오헬스케어](https://kakaohealthcare.com) 프론트엔드 개발자 (2024. 01 - 2024. 10)
 - [Viva Republica(Toss)](https://toss.im) Frontend Developer Assistant (2023. 04 - 2023. 12)
